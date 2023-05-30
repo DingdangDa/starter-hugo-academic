@@ -61,7 +61,7 @@ sections:
         - name: video
           icon_pack: fas
           icon: video
-          description: Davinci Resolve, Shoot Video
+          description: Davinci Resolve, Video Shooting
         # - name: R
         #   description: 90%
         #   icon: r-project
