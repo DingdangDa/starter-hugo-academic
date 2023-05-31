@@ -9,6 +9,7 @@ tags:
   - Mechanic
 categories:
   - RoboMaster
+external_link: https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22188
 links:
   - url: https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22188
     name: RoboMaster BBS
@@ -17,4 +18,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-t﻿est
