@@ -104,6 +104,7 @@ sections:
       flip_alt_rows: false
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
