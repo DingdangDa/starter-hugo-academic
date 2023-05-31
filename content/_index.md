@@ -92,10 +92,6 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
         - name: RoboMaster
           tag: RoboMaster
     design:
