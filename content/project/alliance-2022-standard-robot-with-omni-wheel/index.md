@@ -11,6 +11,7 @@ categories:
   - RoboMaster
 links:
   - url: https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22188
+    name: RoboMaster BBS
 image:
   filename: featured.jpg
   focal_point: Smart
