@@ -96,6 +96,8 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
+        - name: RoboMaster
+          tag: RoboMaster
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -127,7 +129,7 @@ sections:
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
 
         - title: Founder & Editor
-          company: NJUST Alliance Robotic Team
+          company: Black Horse Club
           company_url: ''
           company_logo: ''
           location: Chaozhou, China
