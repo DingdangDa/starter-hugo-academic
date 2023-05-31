@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - RoboMaster
-  - Mechanical
+  - Mechanic
 categories:
   - RoboMaster
 links:
