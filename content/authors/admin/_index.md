@@ -34,3 +34,5 @@ email: xuanyuhuang2001@gmail.com
 ---
 Huang Xuanyu is an undergraduate student at Nanjing University of Science and Technology. His research interests include mechanical design, circuit design, and robotics. He leads the Alliance team, which is a group participating in the RoboMaster competition.
 {style="text-align: justify;"}
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xuanyu_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
