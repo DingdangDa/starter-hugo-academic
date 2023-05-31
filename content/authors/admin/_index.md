@@ -1,6 +1,7 @@
 ---
 title: Xuanyu Huang
 role: Undergraduate of Electronic Engineering
+avatar_filename: 1656491881077.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
