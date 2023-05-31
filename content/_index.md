@@ -120,7 +120,7 @@ sections:
           company_logo: ''
           location: Nanjing, China
           date_start: '2020-10-01'
-          date_end: '2023-06-30'
+          date_end: ''
           description: |2-
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
 
