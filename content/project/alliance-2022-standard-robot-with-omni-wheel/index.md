@@ -4,6 +4,11 @@ date: 2023-05-31T15:54:45.597Z
 summary: Alliance 2022 Standard Robot with Omni Wheel
 draft: false
 featured: false
+tags:
+  - RoboMaster
+  - Mechanical
+categories:
+  - RoboMaster
 links:
   - url: https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22188
 image:
