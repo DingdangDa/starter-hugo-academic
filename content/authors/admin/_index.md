@@ -18,7 +18,7 @@ social:
     link: https://github.com/DingdangDa
 organizations:
   - name: Alliance
-    url: ""
+    url: https://www.rm-alliance.icu
 education:
   courses:
     - course: B.E. in Electronic Engineering
