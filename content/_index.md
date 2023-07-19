@@ -115,13 +115,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Undergraduate Researcher
+          company: SUSTech CLEAR Lab (Prof. Wei Zhang)
+          company_url: 'https://www.wzhanglab.site/'
+          company_logo: ''
+          location: Shenzhen, China
+          date_start: '2023-7-3'
+          date_end: ''
+          description: |2-
+              Developing a contact & force sensor for quadruped robot and biped robot.
+
         - title: Vice-Captain & Project Management
           company: NJUST Alliance Robotic Team
           company_url: ''
           company_logo: ''
           location: Nanjing, China
           date_start: '2020-10-01'
-          date_end: ''
+          date_end: '2023-7-3'
           description: |2-
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
 
