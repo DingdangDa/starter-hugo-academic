@@ -131,13 +131,23 @@ sections:
 
         - title: Vice-Captain & Project Management
           company: NJUST Alliance Robotic Team
-          company_url: ''
+          company_url: 'https://rm-alliance.icu/'
           company_logo: ''
           location: Nanjing, China
           date_start: '2020-10-01'
           date_end: '2023-07-03'
           description: |2-
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
+
+        - title: Director, Cameraman & Film editor
+          company: NJUST Alliance Robotic Team
+          company_url: 'https://www.bilibili.com/video/BV1eK4y1o7W1'
+          company_logo: ''
+          location: Nanjing, China
+          date_start: '2021-04-15'
+          date_end: '2021-04-18'
+          description: |2-
+              Independently filmed and produced the best documentary in the history of RMUL(RoboMaster University League).
 
         - title: Founder & Editor
           company: Black Horse Club
