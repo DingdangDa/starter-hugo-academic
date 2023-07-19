@@ -57,11 +57,15 @@ sections:
         - name: Tools
           icon_pack: fas
           icon: toolbox
-          description: C++, Python, LaTeX
-        - name: video
+          description: C++, Python, LaTeX, Verilog
+        # - name: video
+        #   icon_pack: fas
+        #   icon: video
+        #   description: Davinci Resolve, Video Shooting
+        - name: Embedded
           icon_pack: fas
-          icon: video
-          description: Davinci Resolve, Video Shooting
+          icon: microchip
+          description: Hardware, PCB Design, Software
         # - name: R
         #   description: 90%
         #   icon: r-project
