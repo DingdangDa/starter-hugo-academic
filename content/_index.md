@@ -125,9 +125,9 @@ sections:
           company_logo: ''
           location: Shenzhen, China
           date_start: '2023-07-03'
-          date_end: ''
+          date_end: '2023-11-13'
           description: |2-
-              Developing a contact & force sensor for quadruped robot and biped robot.
+              Developing a contact & force sensor for quadruped robot.
 
         - title: Vice-Captain & Project Management
           company: NJUST Alliance Robotic Team
