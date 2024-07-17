@@ -1,6 +1,6 @@
 ---
 title: Xuanyu Huang
-role: Undergraduate of Electronic Engineering
+role: Graduate of Electronic Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -27,9 +27,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Huang
 highlight_name: true
-first_name: Alice
+first_name: Xuanyu
 email: xuanyuhuang2001@gmail.com
 ---
 Huang Xuanyu is an undergraduate student at Nanjing University of Science and Technology. His research interests include mechanical design, circuit design, and robotics. He led the Alliance team, which is a group participating in the RoboMaster competition.

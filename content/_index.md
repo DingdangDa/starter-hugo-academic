@@ -53,7 +53,7 @@ sections:
         - name: Mechanic
           icon_pack: fas
           icon: wrench
-          description: Solidwork, Fusion360, 3D Print
+          description: Onshape, Solidwork, Fusion360, 3D Print
         - name: Tools
           icon_pack: fas
           icon: toolbox
@@ -65,7 +65,7 @@ sections:
         - name: Embedded
           icon_pack: fas
           icon: microchip
-          description: Hardware, PCB Design, Software
+          description: KiCad
         # - name: R
         #   description: 90%
         #   icon: r-project
@@ -135,7 +135,7 @@ sections:
           company_logo: ''
           location: Nanjing, China
           date_start: '2020-10-01'
-          date_end: '2023-07-03'
+          date_end: '2024-07-03'
           description: |2-
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
 

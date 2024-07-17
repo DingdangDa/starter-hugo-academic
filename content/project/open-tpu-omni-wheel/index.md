@@ -1,7 +1,7 @@
 ---
 title: Open TPU Omni Wheel
 date: 2023-05-31T17:11:28.554Z
-summary: Affordable and high-performance Injection-molded TPU omni wheel for robots.
+summary: Affordable and high-performance injection-molded tpu&rubber omni wheel for robots.
 draft: false
 featured: false
 tags:
